@@ -1,0 +1,56 @@
+body {
+    background-color: #d4a78d;
+    font: normal 15pt Arial;
+    width: 500px;
+    margin: auto;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 25pt;
+}
+
+section {
+    background-color: white;
+    border-radius: 20px;
+    padding: 15px 0 15px 0;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+}
+
+.mensagem {
+    color: rgb(141, 141, 141);
+    text-align: center;
+    padding-top: 10px;
+}
+
+.greeting {
+    color: rgb(141, 141, 141);
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.imagem{
+    border-radius: 50%;
+    width: 250px;
+    margin-left: 1px;
+    margin-bottom: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+footer {
+    color: white;
+    font: normal 12pt Arial;
+    font-style: italic;
+    margin-top: 40px;
+    text-align: center;
+}
