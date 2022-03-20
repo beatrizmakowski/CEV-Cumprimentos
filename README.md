@@ -4,7 +4,7 @@
 Projeto de um site que cumprimenta o usuário, baseado no horário do seu sistema. Este é um projeto que desenvolvi durante o curso de JavaScript do canal Curso em Vídeo no YouTube. 
 
 ## :eyes: Preview
-You can see a preview of the page here: [HTML preview](https://htmlpreview.github.io/?https://github.com/beatrizmakowski/Javascript-TicTacToe/blob/master/index.html)
+You can see a preview of the page here: [HTML preview](https://htmlpreview.github.io/?https://github.com/beatrizmakowski/CEV-Gerador-de-Cumprimentos/blob/master/index.html)
 
 ![preview](https://user-images.githubusercontent.com/86008015/159190464-58483fa2-8fbf-47c8-82d5-35ab81a28bf7.gif)
 
