@@ -1,8 +1,7 @@
 function carregar() {
     var mensagem = window.document.getElementById('mensagem')
     var imagem = window.document.getElementById('imagem')
-    //var hora = new Date().getHours()
-    hora = 19
+    var hora = new Date().getHours()
     var minutos = new Date().getMinutes()
     var timer=setInterval(carregar,1000); 
     mensagem.innerHTML = `Agora são ${hora} horas e ${minutos} minutos.`
