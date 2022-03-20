@@ -1,13 +1,12 @@
-# CEV-Cumprimentos
+# Curso em Vídeo - Gerador de Cumprimentos
 ![Concluído!](http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge?style=plastic&logo=appveyor) ![Badge licença](https://img.shields.io/github/license/beatrizmakowski/Desafio-Cagpemini-2022)
 
-Projeto de um site que cumprimenta o usuário, baseado no horário do seu sistema. Este é um projeto desenvolvido durante o curso de JavaScript do canal Curso em Vídeo no YouTube. 
+Projeto de um site que cumprimenta o usuário, baseado no horário do seu sistema. Este é um projeto que desenvolvi durante o curso de JavaScript do canal Curso em Vídeo no YouTube. 
 
 ## :eyes: Preview
 You can see a preview of the page here: [HTML preview](https://htmlpreview.github.io/?https://github.com/beatrizmakowski/Javascript-TicTacToe/blob/master/index.html)
 
-[TO DO]
-
+![preview](https://user-images.githubusercontent.com/86008015/159190464-58483fa2-8fbf-47c8-82d5-35ab81a28bf7.gif)
 
 ## 💡 Resources
 The sites listed below have been immensely helpful to making this project.
