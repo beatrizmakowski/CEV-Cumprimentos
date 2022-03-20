@@ -1,7 +1,7 @@
 # Curso em Vídeo - Gerador de Cumprimentos
 ![Concluído!](http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge?style=plastic&logo=appveyor) ![Badge licença](https://img.shields.io/github/license/beatrizmakowski/Desafio-Cagpemini-2022)
 
-Projeto de um site que cumprimenta o usuário, baseado no horário do seu sistema. Este é um projeto que desenvolvi durante o curso de JavaScript do canal Curso em Vídeo no YouTube. 
+Projeto de um site que cumprimenta o usuário, baseado no horário do seu sistema. Este é um projeto que desenvolvi durante o curso de JavaScript do canal Curso em Vídeo no YouTube. Além da estrutura básica do projeto proposta no curso, adicionei a verificação e impressão na tela dos minutos do sistema do usuário através do método getMinutes() e adicionei mais um critério de verificação de horário, correspondendo à distinção entre 'evening' e 'night' no inglês. 
 
 ## :eyes: Preview
 You can see a preview of the page here: [HTML preview](https://htmlpreview.github.io/?https://github.com/beatrizmakowski/CEV-Gerador-de-Cumprimentos/blob/master/index.html)
